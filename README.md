@@ -1,4 +1,4 @@
-# Bitcoin-Style RSA 签名与工作量证明系统
+# Bitcoin-Style 工作量证明与RSA 签名
 
 ## 项目简介
 
