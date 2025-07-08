@@ -1,6 +1,11 @@
 [package]
 name = "bitcoin_rsa"
 version = "0.1.0"
-edition = "2024"
+edition = "2025"
 
 [dependencies]
+rsa = "0.9"
+rand = "0.8"
+sha2 = "0.10"
+base64 = "0.21"
+hex = "0.4"
